@@ -24,12 +24,16 @@ note    = {Accepted for publication; preproof available at SSRN: \url{https://ww
 > **Title:** Toxicant production in under-ventilated compartment fires assessed by laser absorption spectroscopy  
 > **Authors:**  
 > **Rayna Vreeland** [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1670--5330-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0006-1670-5330)  
-> **Pablo E. Pinto** [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2274--9746-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0005-2274-9746)  
+> **Kyle L. Fetter** [![ORCID](https://img.shields.io/badge/ORCID--0009--0005--1966--0687-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0005-1966-0687)
+> **Nicolas S.B. Jaeger** [![ORCID](https://img.shields.io/badge/ORCID--0000--0003--0468--4262-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-0468-4262)
+> **Yi Yan**
+> **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X)
 > **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212)  
-> **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X)  
-> **Journal:** *International Journal of Heat and Mass Transfer* (2025)  
+> **Daniel I. Pineda** [![ORCID](https://img.shields.io/badge/ORCID--0000--0001--7259--2226-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0001-7259-2226)
+> **R. Mitchell Spearrin** [![ORCID](https://img.shields.io/badge/ORCID--0000--0002--3351--2809-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-3351-2809)      
+> **Journal:** *Fire Safety Journal* (2025)  
 > **Status:** *Accepted for publication (proofing stage)*  
-> **Preprint:** [SSRN 5354294](https://ssrn.com/abstract=5354294)
+> **Pre-proof:** [FISJ 104534](https://doi.org/10.1016/j.firesaf.2025.104534)
 
 📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Cone_Heater_Misalignment_Paper.pdf).**  
 
