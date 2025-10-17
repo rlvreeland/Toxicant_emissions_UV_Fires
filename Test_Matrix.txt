@@ -1,0 +1,28 @@
+Wood							
+	Data Collected						
+Test_No	CO	CO2	HCN	C2H2	CH4	C6H6	C2H4
+1	yes	yes	no	no	no	no	no
+2	yes	yes	no	no	no	no	no
+3	yes	yes	no	no	no	no	no
+4	yes	yes	yes	yes	yes	no	no
+5	no	no	yes	yes	yes	no	no
+6	no	no	yes	yes	yes	no	no
+7	no	no	no	no	no	yes	yes
+							
+							
+MDF							
+	Data Collected						
+Test_No	CO	CO2	HCN	C2H2	CH4	C6H6	C2H4
+1	yes	yes	no	no	no	no	no
+2	yes	yes	yes	yes	yes	no	no
+3	no	no	no	no	no	yes	yes
+							
+							
+Wood/nylon							
+	Data Collected						
+Test_No	CO	CO2	HCN	C2H2	CH4	C6H6	C2H4
+1	yes	yes	no	no	no	no	no
+2	yes	yes	no	no	no	no	no
+3	yes	yes	yes	yes	yes	no	no
+4	yes	yes	yes	yes	yes	no	no
+5	no	no	no	no	no	yes	yes
