@@ -8,4 +8,4 @@ Fire Safety Journal,
 ISSN 0379-7112,
 https://doi.org/10.1016/j.firesaf.2025.104534.
 
-Each Folder contains the concentration measurements for an indvidual test. The concentration measurements that were collected for each test is summarized in the Test_Matrix.txt. All text files containting data have two columns: time (seconds) and a species measurement in mole fraction (-).  
+Each Folder contains the concentration measurements for an indvidual test. The concentration measurements that were collected during each test is summarized in Test_Matrix.txt. All text files containting data have two columns: time (seconds) and a species measurement in mole fraction (-).  
