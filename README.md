@@ -1,6 +1,6 @@
 # Toxicant production in under-ventilated compartment fires assessed by laser absorption spectroscopy
 
-This repository contains experimental concentration measurements of CO, CO_2, HCN, C_2H_2, CH_4, C_6H_6, and C_2H_4 from under-ventilated compartment experiments buring cribs of Medium denisty fiberboard (MDF), wood, and a mixture of wood any nylon.  
+This repository contains experimental concentration measurements of CO, CO_2, HCN, C_2H_2, CH_4, C_6H_6, and C_2H_4 from under-ventilated compartment experiments buring cribs of Medium denisty fiberboard (MDF), wood, and a mixture of wood and nylon.  
 
 
 [![Published Article](https://img.shields.io/badge/Article-Fire%20Safety%20Journal%20-blue)](https://www.sciencedirect.com/science/article/pii/S0379711225001985)
@@ -35,6 +35,9 @@ note    = {Accepted for publication; preproof available at SSRN: \url{https://ww
 > **Status:** *Accepted for publication (proofing stage)*  
 > **Pre-proof:** [FISJ 104534](https://doi.org/10.1016/j.firesaf.2025.104534)
 
-📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Cone_Heater_Misalignment_Paper.pdf).**  
+📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Toxicant_Production_UV_Compartment_Fires_Paper.pdf).**  
 
-Each Folder contains the concentration measurements for an indvidual test. The concentration measurements that were collected during each test are summarized in Test_Matrix.txt. All text files containting data have two columns: time (seconds) and a species measurement in mole fraction (-).
+## 📂 Repository Structure
+Each Folder contains the concentration measurements for an indvidual test. The concentration measurements that were collected during each test are summarized in [Test_Matrix.txt](Test_Matrix.txt). All text files containting data have two columns: time (seconds) and a species measurement in mole fraction (-).
+
+
