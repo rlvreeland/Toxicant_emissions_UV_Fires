@@ -23,7 +23,6 @@ note    = {Accepted for publication; preproof available at SSRN: \url{https://ww
 
 > **Title:** Toxicant production in under-ventilated compartment fires assessed by laser absorption spectroscopy  
 > **Authors:**  
-> **Rayna Vreeland** [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1670--5330-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0006-1670-5330)
 > **Rayna Vreeland** [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1670--5330-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0006-1670-5330)  
 > **Kyle L. Fetter** [![ORCID](https://img.shields.io/badge/ORCID--0009--0005--1966--0687-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0005-1966-0687)  
 > **Nicolas S.B. Jaeger** [![ORCID](https://img.shields.io/badge/ORCID--0000--0003--0468--4262-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-0468-4262)  
