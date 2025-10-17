@@ -38,6 +38,9 @@ note    = {Accepted for publication; preproof available at SSRN: \url{https://ww
 📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Toxicant_Production_UV_Compartment_Fires_Paper.pdf).**  
 
 ## 📂 Repository Structure
+
 Each Folder contains the concentration measurements for an indvidual test. The concentration measurements that were collected during each test are summarized in [Test_Matrix.txt](Test_Matrix.txt). All text files containting data have two columns: time (seconds) and a species measurement in mole fraction (-).
 
+## 📬 Contact
 
+For questions, suggestions, or collaboration inquiries, please open an issue or contact the corresponding author listed in the paper (James L. Urban, [**jurban@wpi.edu**](mailto:jurban@wpi.edu)), or the first author (Rayna Vreeland, [**rlvreeland@wpi.edu**](mailto:rlvreeland@wpi.edu)).
