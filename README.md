@@ -26,7 +26,7 @@ note    = {Accepted for publication; preproof available at SSRN: \url{https://ww
 > **Rayna Vreeland** [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1670--5330-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0006-1670-5330)  
 > **Kyle L. Fetter** [![ORCID](https://img.shields.io/badge/ORCID--0009--0005--1966--0687-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0005-1966-0687)
 > **Nicolas S.B. Jaeger** [![ORCID](https://img.shields.io/badge/ORCID--0000--0003--0468--4262-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-0468-4262)
-> **Yi Yan**
+> **Yi Yan** [![ORCID](https://img.shields.io/badge/ORCID--0000--0003--1918--8683-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-1918-8683)
 > **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X)
 > **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212)  
 > **Daniel I. Pineda** [![ORCID](https://img.shields.io/badge/ORCID--0000--0001--7259--2226-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0001-7259-2226)
