@@ -5,7 +5,7 @@ This repository contains experimental concentration measurements of CO, CO_2, HC
 
 [![Published Article](https://img.shields.io/badge/Article-Fire%20Safety%20Journal%20-blue)](https://www.sciencedirect.com/science/article/pii/S0379711225001985)
 ```bibtex
-@article{VREELAND2025104534,
+@article{VREELAND2025,
 title = {Toxicant production in under-ventilated compartment fires assessed by laser absorption spectroscopy},
 journal = {Fire Safety Journal},
 pages = {104534},
