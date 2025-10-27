@@ -13,6 +13,7 @@ year = {2025},
 issn = {0379-7112},
 doi = {https://doi.org/10.1016/j.firesaf.2025.104534},
 author = {Rayna Vreeland and Kyle L. Fetter and Nicolas S.B. Jaeger and Yi Yan and Xiuqi Xi and James L. Urban and Daniel I. Pineda and R. {Mitchell Spearrin}}
+}
 ```
 
 ---
