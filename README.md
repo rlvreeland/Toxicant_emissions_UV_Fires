@@ -12,9 +12,7 @@ pages = {104534},
 year = {2025},
 issn = {0379-7112},
 doi = {https://doi.org/10.1016/j.firesaf.2025.104534},
-author = {Rayna Vreeland and Kyle L. Fetter and Nicolas S.B. Jaeger and Yi Yan and Xiuqi Xi and James L. Urban and Daniel I. Pineda and R. {Mitchell Spearrin}},
-note    = {Accepted for publication; preproof available at SSRN: \url{https://www.sciencedirect.com/science/article/pii/S0379711225001985}}
-}
+author = {Rayna Vreeland and Kyle L. Fetter and Nicolas S.B. Jaeger and Yi Yan and Xiuqi Xi and James L. Urban and Daniel I. Pineda and R. {Mitchell Spearrin}}
 ```
 
 ---
@@ -32,8 +30,8 @@ note    = {Accepted for publication; preproof available at SSRN: \url{https://ww
 > **Daniel I. Pineda** [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7259--2226-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0001-7259-2226)  
 > **R. Mitchell Spearrin** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3351--2809-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-3351-2809)       
 > **Journal:** *Fire Safety Journal* (2025)  
-> **Status:** *Accepted for publication (proofing stage)*  
-> **Pre-proof:** [FISJ 104534](https://doi.org/10.1016/j.firesaf.2025.104534)
+> **Status:** *Published*  
+> **Published Article:** [FISJ 104534](https://doi.org/10.1016/j.firesaf.2025.104534)
 
 📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Toxicant_Production_UV_Compartment_Fires_Paper.pdf).**  
 
